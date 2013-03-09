@@ -6,15 +6,15 @@ Refactored Admeris PHP Core API
 
 [Admeris Payment Systems](http://www.admeris.com/) is a full-service provider of credit, debit, loyalty and gift card payment processing solutions, in partnership with the world’s largest financial institutions and technology partners.
 
-The only problem is that thier PHP library is written poorly. Really.
+The only problem is that thier PHP library is poorly written.
 
 ## Goals of refactoring
 
 - Namespacing
 - Bug fixes
 - One class per file
-- Modern OOP code (PHP 5+)
-- Remain relatively compatable with the [documentation](http://www.admeris.com/developers/downloads/).
+- Modern OO code (PHP 5+)
+- Remain relatively compatible with the [documentation](http://www.admeris.com/developers/downloads/).
 
 ## Updated examples
 
